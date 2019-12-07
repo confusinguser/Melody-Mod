@@ -1,0 +1,16 @@
+[
+{
+  "modid": "melodymod",
+  "name": "Melody Mod",
+  "description": "A mod to make it easier to play Melody's Harp on Hypixel Skyblock",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ConfusingUser"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
