@@ -20,9 +20,9 @@ plugins {
     id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
 */
-version = "1.0"
+version = "1.1"
 group = "com.confusinguser.melodymod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "MelodyMod"
+archivesBaseName = "Melody-Mod"
 
 minecraft {
     version = "1.8.9-11.15.1.1722"
